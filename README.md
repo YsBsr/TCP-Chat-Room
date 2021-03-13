@@ -1,2 +1,2 @@
 # TCP ChatRoom
-Using UDP a chatroom designed for any number of client
+Using TCP a chatroom designed for any number of client
