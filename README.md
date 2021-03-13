@@ -1,2 +1,2 @@
 # TCP ChatRoom
-Using TCP a chatroom designed for any number of client
+Using TCP a chat room designed for any number of client
