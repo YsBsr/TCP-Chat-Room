@@ -1,2 +1,2 @@
-# WebCam-Stream-with-Socket-Programming-and-OpenCV
-Using UDP a webcam stream server, streamer and viewer branches programmed
+# TCP ChatRoom
+Using UDP a chatroom designed for any number of client
